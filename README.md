@@ -25,7 +25,6 @@ Week 2 - Loops
     camelCase - contverts camelCase str to camel_case str
     Coke Machine - adds valid coin inputs to buy a 50 cent bottle of coke
     Just setting up my twttr - removes vowels from user input string
-    Vanity Plates - checks if desired vanity plate is valid given a variety of conditions
     Nutrition Facts - returns calorie content of a fruit from user input
 
 Week 3 - Exceptions
