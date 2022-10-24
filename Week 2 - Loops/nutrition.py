@@ -1,6 +1,6 @@
 item = input('Item: ')
 
-# List of fruits
+# Dict of fruits
 fruits = {
     'apple': 130,
     'avocado': 50,
