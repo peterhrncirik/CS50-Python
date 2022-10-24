@@ -4,12 +4,6 @@ def main():
 
         try:
             fr = input('Fraction: ')
-            # numbers = fr.split('/')
-            # x, y = numbers
-
-            # if int(y) == 0 or int(x) > int(y):
-            #     continue
-
             g = convert(fr)
             break
 
