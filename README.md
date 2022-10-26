@@ -62,7 +62,7 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
    - [Watch on Youtube](https://github.com/peterhrncirik/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/watch) - parses an embedded URL and returns a shareable URL
    - [Working 9 to 5](https://github.com/peterhrncirik/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/working) - accepts work hours in "9:00 AM to 5:00 PM" and "9 AM to 5 PM" format and converts to military time, checks for invalid formats and impossible times
    - [Regular, um, expressions](https://github.com/peterhrncirik/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/um) - counts how many times "um" is said in an input. ignores when 'um' is in a word like "yum"
-   - Response Validation - uses validator_collection library to check if an email is in a valid email address format
+   - [Response Validation](https://github.com/peterhrncirik/CS50-Python/tree/main/Week%207%20-%20Regular%20Expressions/response) - uses validators library to check if an email is in a valid email address format
 
 ## Week 8 - Object-Oriented Programming
 
