@@ -67,5 +67,5 @@ Course Description: Learn about functions, arguments, and return values (oh my!)
 ## Week 8 - Object-Oriented Programming
 
    - [Seasons of Love](https://github.com/peterhrncirik/CS50-Python/tree/main/Week%208%20-%20OOP/seasons) - calculates how many minutes have passed since a given date, returns answer in words a la "five hundred twenty-five thousand six hundred mintues"
-   - Cookie Jar - creates a cookie jar class with specified capacity and deposit/withdraw methods and properties for capacity and cookies currently in the jar
+   - [Cookie Jar](https://github.com/peterhrncirik/CS50-Python/tree/main/Week%208%20-%20OOP/Cookie%20Jar) - creates a cookie jar class with specified capacity and deposit/withdraw methods and properties for capacity and cookies currently in the jar
    - CS50 Shirtificate - creates a PDF class using fpdf library. Includes a shirt image overlayed with "{name} took CS50"
